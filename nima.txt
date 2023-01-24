@@ -1,1 +1,8 @@
 Foundation N4
+print("Kimdur")
+
+Spurs   0 - 2 Arsenal
+Arsenal 3 - 2 MU
+Arsenal 3 - 2 Liverpool
+Arsenal 2 - 1 Chelsea
+Chelsea 0 - 1 Arsenal 
